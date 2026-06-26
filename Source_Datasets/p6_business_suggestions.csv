@@ -1,0 +1,8 @@
+rank,area,suggestion,expected_impact
+1,Customer Retention,Launch a loyalty rewards program targeting 'At Risk' customers (1-3 orders). Offer 15% cashback on 4th purchase.,Convert 20% of At-Risk to Stable — estimated +INR 8.2L revenue
+2,Product Strategy,Bundle Electronics with Books (highest co-purchase rate). Create 'Student Starter Packs' combining Laptop Stand + Python Book.,Increase average basket size by 18% — estimated +INR 4.5L revenue
+3,Regional Expansion,West region shows highest avg order value. Open dedicated regional warehouse in Mumbai to reduce delivery time from 5 to 2 days.,Reduce Standard Delivery churn by 25% in West region
+4,Shipping Optimization,"Standard Delivery customers show lowest ratings (avg 3.6). Offer free Express upgrade on orders above INR 3,000.",Improve NPS by 12 points — increase repeat order rate by 8%
+5,Category Development,"Furniture has highest avg order value (INR 6,200). Introduce EMI payment options and virtual room visualizer to reduce purchase hesitation.",Increase Furniture conversion rate by 30% — estimated +INR 12L revenue
+6,New Customer Onboarding,First-time buyers (Low Value segment) show 68% churn after 1 order. Send personalized email with coupon within 7 days of first purchase.,Improve first-to-second order conversion from 32% to 50%
+7,Gender-Based Marketing,Women customers show 12% higher avg rating and prefer Clothing + Books. Launch curated 'Women's Collection' with dedicated landing page.,Increase Women segment revenue share from 38% to 48%

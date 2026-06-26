@@ -1,0 +1,5 @@
+churn_risk,customers,avg_ltv,avg_orders
+At Risk,79,8581.42,2.67
+Loyal,487,35853.15,9.63
+One-Time,11,4148.1,1.0
+Stable,619,20971.11,5.79
